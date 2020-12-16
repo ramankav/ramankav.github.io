@@ -1,0 +1,8 @@
+Meysam Zarezadeh:
+  name        : "Meysam Zarezadeh"
+  bio         : "I love all thing computers"
+  avatar      : "/assets/img/profile-mzarezadeh.png"
+  links:
+    - label: "Linkedin Profile"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/mzarezadeh"

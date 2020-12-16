@@ -29,6 +29,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+repository: ramankav/ramankav.github.io
+
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.21.0" 
 plugins:
@@ -55,3 +57,22 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-TX54VQTMV3"
+    anonymize_ip: false
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
+  - scope:
+      path: "assets"
+    values:
+      sitemap:
+        exclude: "yes"
+    
