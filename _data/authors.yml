@@ -1,8 +1,9 @@
-Meysam Zarezadeh:
-  name        : "Meysam Zarezadeh"
-  bio         : "I love all thing computers"
+meysam:
+  name        : "میثم زارع‌زاده"
+  bio         : "عشق کامپیوتر"
   avatar      : "/assets/img/profile-mzarezadeh.png"
+  home        : "/authors/meysam"
   links:
-    - label: "Linkedin Profile"
+    - label: "پروفایل لینکدین"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/mzarezadeh"
